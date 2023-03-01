@@ -1,5 +1,4 @@
-###																														 HI THERE 👋, JE SUIS MAXENCE LECOQ
-
+# <h1 align="center">HI THERE 👋, I'M MAXENCE LECOQ</h1>
 <!--
 **MaxenceLecoq921/MaxenceLecoq921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
