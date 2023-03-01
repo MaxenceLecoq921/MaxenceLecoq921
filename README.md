@@ -3,6 +3,7 @@
 
 <h3 align="center">Currently studying at ECE Paris</h2>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaxenceLecoq921&label=Profile%20views&color=0e75b6&style=flat" alt="MaxenceLecoq921" /> </p>
 
 - 🔭 I’m currently working on a website allowing to offer web development services
 
