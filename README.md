@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Je suis Maxence Lecoq
 
 <!--
 **MaxenceLecoq921/MaxenceLecoq921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
