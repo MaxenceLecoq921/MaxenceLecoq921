@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Solidity and React framework
 
-- 💬 Ask me about Java, NodeJS or VueJS
+- 💬 Ask me about Java, NodeJS or ReactJS
 
 - 📫 How to reach me: maxencelecoqpro@gmail.com
 
