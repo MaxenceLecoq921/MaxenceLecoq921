@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a website allowing to offer web development services
 
-- 🌱 I’m currently learning Solidity and Adonis framework
+- 🌱 I’m currently learning Solidity and React framework
 
 - 💬 Ask me about Java, NodeJS or VueJS
 
