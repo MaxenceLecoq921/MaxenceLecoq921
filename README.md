@@ -37,10 +37,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
-### Badges
-
-<a href="http://www.github.com/MaxenceLecoq921"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MaxenceLecoq921&bg_color=181824&color=ffffff&line=6366f1&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <!--
 **MaxenceLecoq921/MaxenceLecoq921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
