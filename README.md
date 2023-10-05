@@ -15,8 +15,6 @@
 
 - 📄 my experiences : Dev web Freelance
 
-- ⚡ I'm making tutorials here: https://www.tiktok.com/@nexus_webcreator?lang=fr
-
 ### Skills
 
 <p align="left">
