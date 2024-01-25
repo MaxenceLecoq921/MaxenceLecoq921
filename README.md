@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaxenceLecoq921&label=Profile%20views&color=red&style=flat" alt="MaxenceLecoq921" /> </p>
 
-- 🔭 I’m currently working on a start-up
+- 🔭 I’m currently working in a start-up
 
 - 🌱 I’m currently learning Solidity and React framework
 
