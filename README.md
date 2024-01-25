@@ -5,11 +5,11 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaxenceLecoq921&label=Profile%20views&color=red&style=flat" alt="MaxenceLecoq921" /> </p>
 
-- 🔭 I’m currently working on a website allowing to offer web development services
+- 🔭 I’m currently working on a start-up
 
 - 🌱 I’m currently learning Solidity and React framework
 
-- 💬 Ask me about Java, NodeJS or ReactJS
+- 💬 Ask me about Java, NodeJS or ReactJS...
 
 - 📫 How to reach me: maxencelecoqpro@gmail.com
 
